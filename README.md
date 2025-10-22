@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Truong</h1>
 <h3 align="center">Electrical Engineering student at the University of Connecticut</h3>
 
-- 🔭 I’m currently working on [Game solver](https://tqh23001.github.io/game-solver/)
+- 🔭 I’m currently working on [Puzzle Solver](https://tqh23001.github.io/game-solver/)
 
 - 🌱 I’m currently learning **HTML, Tailwind, TypeScript, Next.js, Python, C, Fast API, and SQL**
 
